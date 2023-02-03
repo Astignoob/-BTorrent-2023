@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /* global WebTorrent, angular, moment, prompt */
 
 const VERSION = '1.1'
